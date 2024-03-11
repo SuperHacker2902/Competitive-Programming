@@ -5,7 +5,6 @@ const long long INF=1e9+5;
 const long long MOD=1e9+7;
 const long long N=1e6+5;
 long long n;
-unordered_map <long long, long long> bit1, bit2;
 long long a[N];
 long long dp1[N],dp2[N];
 long long f1[N],f2[N];
